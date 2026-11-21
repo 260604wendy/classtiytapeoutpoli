@@ -1,4 +1,4 @@
-wendy<!---
+<!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
@@ -16,5 +16,6 @@ tur on the swhitches
 popup the display
 
 ## External hardware
+
 no
 
